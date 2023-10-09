@@ -1,0 +1,3 @@
+[submodule "Submodules/JamKit"]
+	path = Submodules/JamKit
+	url = git@github.com:Jacobingalls/JamKit.git

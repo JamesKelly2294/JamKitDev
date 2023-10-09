@@ -257,7 +257,7 @@
       "url": "https://packages.unity.com"
     },
     "info.jacobingalls.jamkit": {
-      "version": "file:D:/Development/JamKit",
+      "version": "file:../Submodules/JamKit",
       "depth": 0,
       "source": "local",
       "dependencies": {}
